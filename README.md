@@ -1,5 +1,5 @@
 
-⚡ CodeLens: AI-Powered Code Reviewer
+#⚡ CodeLens: AI-Powered Code Reviewer
 CodeLens is a sophisticated full-stack application designed to act as a virtual mentor for programming students. It provides deep, automated insights into code quality, algorithmic efficiency, and security anti-patterns using state-of-the-art Large Language Models (LLMs).
 
 🎯 Project Overview
@@ -60,7 +60,7 @@ Ollama (If you wish to run the AI locally)
 * Bash
 * cd server
 * npm install
-# Create a .env file and add ANTHROPIC_KEY=your_key (if using Claude)
+* Create a .env file and add ANTHROPIC_KEY=your_key (if using Claude)
 node server.js
 3. Setup Frontend
 * Bash
