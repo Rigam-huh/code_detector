@@ -1,5 +1,5 @@
 
-#⚡ CodeLens: AI-Powered Code Reviewer
+⚡ CodeLens: AI-Powered Code Reviewer
 CodeLens is a sophisticated full-stack application designed to act as a virtual mentor for programming students. It provides deep, automated insights into code quality, algorithmic efficiency, and security anti-patterns using state-of-the-art Large Language Models (LLMs).
 
 🎯 Project Overview
